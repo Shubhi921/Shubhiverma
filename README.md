@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Web Development
 - 💻 Tech: HTML | CSS | JavaScript | C Programming
 - 💼 Open to internships and collaborations
-- 📫 How to reach me: shubhi@example.com
+- 📫 How to reach me: shubhiv734@gmail.com
